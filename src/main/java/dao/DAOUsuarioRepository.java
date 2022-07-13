@@ -405,7 +405,7 @@ public ModelLogin consutalUsuarioId(Long id)throws Exception {
 				{
 				 cadastros = resultado.getDouble("total");
 				}
-			
+			/* asdfasdf*/
 			
 			Double porpagina= 5.0;
 			Double pagina= cadastros / porpagina;
